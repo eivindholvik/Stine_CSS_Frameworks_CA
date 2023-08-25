@@ -1,0 +1,23 @@
+{
+  "name": "stine_css_frameworks_ca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eivindholvik/Stine_CSS_Frameworks_CA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eivindholvik/Stine_CSS_Frameworks_CA/issues"
+  },
+  "homepage": "https://github.com/eivindholvik/Stine_CSS_Frameworks_CA#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
